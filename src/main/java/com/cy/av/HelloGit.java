@@ -7,6 +7,7 @@ public class HelloGit {
 		
 		System.out.println("测试合并冲突1主线");
 		System.out.println("测试冲突2222");
+		System.out.println("第一次再提交");
 	}
 
 }
